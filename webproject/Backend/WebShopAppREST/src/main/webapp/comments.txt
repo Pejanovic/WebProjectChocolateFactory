@@ -1,0 +1,5 @@
+1;1;2;Great chocolate!;5;APPROVED;2023-06-29T10:15:30
+2;3;4;Not bad, but could be better;3;APPROVED;2023-06-28T14:20:45
+3;10;2;Excellent service and product;5;APPROVED;2023-06-27T09:30:15
+4;7;3;Disappointing quality;2;REJECTED;2023-06-26T16:45:00
+5;5;1;Average taste, good price;3;PENDING;2023-06-25T11:10:20

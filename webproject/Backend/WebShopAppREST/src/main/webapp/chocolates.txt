@@ -1,0 +1,6 @@
+1;Dark Chocolate;2.50;1;100;Rich dark chocolate with 70% cocoa;DARK;REGULAR;IN_STOCK;50;download.jpeg
+2;Milk Chocolate;1.75;2;150;Smooth milk chocolate with creamy texture;MILK;FOR_DRINKING;IN_STOCK;75;download.jpeg
+3;White Chocolate;2.00;3;120;Sweet white chocolate with vanilla flavor;WHITE;FOR_COOKING;OUT_OF_STOCK;0;download.jpeg
+4;Baking Chocolate;3.00;4;200;Premium chocolate for baking;DARK;FOR_COOKING;IN_STOCK;25;download.jpeg
+5;White Chocolate;3.00;4;200;Premium chocolate for baking;DARK;FOR_COOKING;IN_STOCK;25;download.jpeg
+6;Drinking Chocolate;1.50;5;180;Delicious chocolate for making hot drinks;MILK;FOR_DRINKING;IN_STOCK;60;download.jpeg

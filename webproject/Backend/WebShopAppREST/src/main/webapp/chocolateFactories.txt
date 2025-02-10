@@ -1,0 +1,4 @@
+1;Sweet Delights;08:00-17:00;OPEN;1;4.5;false;1;logo.png
+2;Cocoa Bliss;09:00-18:00;OPEN;2;4.7;false;2;logo.png
+3;Choco Paradise;07:00-16:00;CLOSED;3;4.2;true;3;logo.png
+4;Heavenly Bites;10:00-19:00;OPEN;1;4.8;false;4;logo.png

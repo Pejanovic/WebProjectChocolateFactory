@@ -1,0 +1,51 @@
+1;19.833549;45.267136;Knez Mihailova;Beograd;11000
+2;20.457273;44.817609;Bulevar kralja Aleksandra;Beograd;11050
+3;15.981919;45.815011;Ilica;Zagreb;10000
+4;19.842607;45.255114;Bulevar Oslobođenja;Novi Sad;21000
+5;19.868833;45.267136;Zmaj Jovina;Novi Sad;21000
+6;21.895758;43.320902;Kej Kola srpskih sestara;Niš;18000
+7;21.899002;43.324722;Obrenovićeva;Niš;18000
+8;19.557836;44.772181;Kralja Petra I;Zrenjanin;23000
+9;19.562782;44.772769;Narodne omladine;Zrenjanin;23000
+10;19.703404;44.533964;Kralja Petra I;Loznica;15300
+11;19.707350;44.534550;Vuka Karadžića;Loznica;15300
+12;19.264167;44.871224;Vase Pelagića;Bijeljina;76300
+13;19.267889;44.874667;Patrijarha Pavla;Bijeljina;76300
+14;17.195767;44.772181;Kralja Petra I;Banja Luka;78000
+15;17.198767;44.774567;Gundulićeva;Banja Luka;78000
+16;18.401777;43.847600;Maršala Tita;Sarajevo;71000
+17;18.407008;43.849067;Ferhadija;Sarajevo;71000
+18;19.006838;44.109328;Cara Lazara;Vlasenica;75440
+19;19.009823;44.111515;Nikole Tesle;Vlasenica;75440
+20;20.481331;44.817609;Bulevar kralja Aleksandra;Beograd;11050
+21;19.833549;45.267136;Knez Mihailova;Beograd;11000
+22;15.981919;45.815011;Ilica;Zagreb;10000
+23;19.842607;45.255114;Bulevar Oslobođenja;Novi Sad;21000
+24;19.868833;45.267136;Zmaj Jovina;Novi Sad;21000
+25;21.895758;43.320902;Kej Kola srpskih sestara;Niš;18000
+26;21.899002;43.324722;Obrenovićeva;Niš;18000
+27;19.557836;44.772181;Kralja Petra I;Zrenjanin;23000
+28;19.562782;44.772769;Narodne omladine;Zrenjanin;23000
+29;19.703404;44.533964;Kralja Petra I;Loznica;15300
+30;19.707350;44.534550;Vuka Karadžića;Loznica;15300
+31;19.264167;44.871224;Vase Pelagića;Bijeljina;76300
+32;19.267889;44.874667;Patrijarha Pavla;Bijeljina;76300
+33;17.195767;44.772181;Kralja Petra I;Banja Luka;78000
+34;17.198767;44.774567;Gundulićeva;Banja Luka;78000
+35;18.401777;43.847600;Maršala Tita;Sarajevo;71000
+36;18.407008;43.849067;Ferhadija;Sarajevo;71000
+37;19.006838;44.109328;Cara Lazara;Vlasenica;75440
+38;19.009823;44.111515;Nikole Tesle;Vlasenica;75440
+39;20.481331;44.817609;Bulevar kralja Aleksandra;Beograd;11050
+40;19.833549;45.267136;Knez Mihailova;Beograd;11000
+41;15.981919;45.815011;Ilica;Zagreb;10000
+42;19.842607;45.255114;Bulevar Oslobođenja;Novi Sad;21000
+43;19.868833;45.267136;Zmaj Jovina;Novi Sad;21000
+44;21.895758;43.320902;Kej Kola srpskih sestara;Niš;18000
+45;21.899002;43.324722;Obrenovićeva;Niš;18000
+46;19.557836;44.772181;Kralja Petra I;Zrenjanin;23000
+47;19.562782;44.772769;Narodne omladine;Zrenjanin;23000
+48;19.703404;44.533964;Kralja Petra I;Loznica;15300
+49;19.707350;44.534550;Vuka Karadžića;Loznica;15300
+50;19.264167;44.871224;Vase Pelagića;Bijeljina;76300
+51;19.267889;44.874667;Patrijarha Pavla;Bijeljina;76300
